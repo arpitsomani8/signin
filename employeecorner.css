@@ -162,7 +162,13 @@ input[type="search"] {
     margin-left: -35px !important;
   }
 }
-
+.forget {
+  color: blue;
+}
+.forget:hover {
+  text-underline-offset: blue;
+  color: blue;
+}
 /*---------------------------last part start---------------------------------------------*/
 .fa-handshake,
 .fa-user-shield,
